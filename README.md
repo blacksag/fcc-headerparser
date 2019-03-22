@@ -1,7 +1,12 @@
+# fcc-headerparser
+
+## About
+It is a microservice project as required by freecodecamp. This is built using the boilerplate from [this repo](https://github.com/freeCodeCamp/boilerplate-project-headerparser/).
+
 ## API Project: Request Header Parser Microservice
 
 ### User stories:
-1. Ii can get the IP address, preferred languages (from header `Accept-Language`) and system infos (from header `User-Agent`) of device.
+1. It can get the IP address, preferred languages (from header `Accept-Language`) and system infos (from header `User-Agent`) of device.
 
 #### Example usage:
 * https://petal-tulip.glitch.me/api/whoami
